@@ -48,7 +48,8 @@ Technical Skills:
 
 Programming Languages           :  C, C#, Visual Basic, OOPS, MATLAB, LabVIEW, PLC
 
-IDE                                           :  Visual Studio
+IDE                                           : Visual Studio
+
 Scripting languages                   : JavaScript, VB Script
 
 Operating Systems                    :  Windows XP/2000/ 7/8/10
